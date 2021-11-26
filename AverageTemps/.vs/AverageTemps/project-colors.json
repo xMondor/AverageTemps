@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "784fadb4-2378-4654-8a30-5d1a0e789312": {
+      "ProjectGuid": "784fadb4-2378-4654-8a30-5d1a0e789312",
+      "DisplayName": "DataCreator",
+      "ColorIndex": 0
+    },
+    "d8ed69c2-c508-4229-b23c-b9bf3e6b7a68": {
+      "ProjectGuid": "d8ed69c2-c508-4229-b23c-b9bf3e6b7a68",
+      "DisplayName": "AverageTempsApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

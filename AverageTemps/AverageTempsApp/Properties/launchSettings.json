@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AverageTempsApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-d C:\\Users\\rober\\source\\repos\\AverageTemps\\AverageTempsApp\\Data\\data.json -c C:\\Users\\rober\\source\\repos\\AverageTemps\\AverageTempsApp\\Data\\config.json"
+    }
+  }
+}

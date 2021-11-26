@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQ2kQgyoJInyneQL5TZkM3fPVHaVfmmYkMjYX9VlZn/DgP9tp6qIsnXIAKueS7PmoNA5AVOlKEzyTugvx23tSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rober\\source\\gitrepos\\private\\AverageTemps\\DataCreator\\DataCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\rober\source\repos\AverageTemps\DataCreator\bin\Debug\net6.0\DataCreator.exe
+C:\Users\rober\source\repos\AverageTemps\DataCreator\bin\Debug\net6.0\DataCreator.deps.json
+C:\Users\rober\source\repos\AverageTemps\DataCreator\bin\Debug\net6.0\DataCreator.runtimeconfig.json
+C:\Users\rober\source\repos\AverageTemps\DataCreator\bin\Debug\net6.0\DataCreator.dll
+C:\Users\rober\source\repos\AverageTemps\DataCreator\bin\Debug\net6.0\ref\DataCreator.dll
+C:\Users\rober\source\repos\AverageTemps\DataCreator\bin\Debug\net6.0\DataCreator.pdb
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.AssemblyInfo.cs
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.dll
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\ref\DataCreator.dll
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.pdb
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.genruntimeconfig.cache
+C:\Users\rober\source\repos\AverageTemps\DataCreator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rober\source\repos\AverageTemps\DataCreator\obj\Debug\net6.0\DataCreator.csproj.CopyComplete
